@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Morabaa Blog</title>
-    <link>https://blog.morabaa.com/</link>
+    <link>https://mahmoos.github.io/morabaa-blog/</link>
     <description>Recent content on Morabaa Blog</description>
     <image>
-      <url>https://blog.morabaa.com/papermod-cover.png</url>
-      <link>https://blog.morabaa.com/papermod-cover.png</link>
+      <url>https://mahmoos.github.io/morabaa-blog/papermod-cover.png</url>
+      <link>https://mahmoos.github.io/morabaa-blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>**[Morabaa Software Solutions Co. LTD](https://morabaa.com)**</copyright><atom:link href="https://blog.morabaa.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>**[Morabaa Software Solutions Co. LTD](https://morabaa.com)**</copyright><atom:link href="https://mahmoos.github.io/morabaa-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
