@@ -1,4 +1,4 @@
-baseURL: "https://blog.morabaa.com/"
+baseURL: "https://mahmoos.github.io/morabaa-blog/"
 title: Morabaa Blog
 paginate: 5
 theme: PaperMod
@@ -182,7 +182,7 @@ params:
           url: "mailto://info@morabaa.com"
 
     # editPost:
-    #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    #     URL: "https://mahmoos.github.io/morabaa-blog/"
     #     Text: "Suggest Changes" # edit text
     #     appendFilePath: true # to append file path to Edit link
 
