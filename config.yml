@@ -1,0 +1,258 @@
+baseURL: "https://blog.morabaa.com/"
+title: Morabaa Blog
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+disableLanguages: ['fr']
+
+languages:
+    en:
+        languageName: ":uk:"
+        languageAltTitle: English
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 4
+                - name: Tags
+                  url: tags/
+                  weight: 3
+                - name: Categories
+                  url: categories/
+                  weight: 1
+                - name: Series
+                  url: series
+                  weight: 2
+                - name: Search
+                  url: search/
+                  post: <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="margin-left:12px; margin-bottom:-2px;" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                  weight: 5
+        copyright: "**[Morabaa Software Solutions Co. LTD](https://morabaa.com)**"
+
+    fr:
+        languageName: ":fr:"
+        languageAltTitle: French
+        weight: 2
+        title: PaperModL2
+        profileMode:
+            enabled: true
+            title: PaperMod
+            # imageUrl: "#"
+            # imageTitle: my image
+            # imageWidth: 120
+            # imageHeight: 120
+            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            buttons:
+                - name: Blog
+                  url: posts
+                - name: Tags
+                  url: tags
+        menu:
+            main:
+                - name: Archive
+                  url: archives/
+                  weight: 4
+                - name: Tags
+                  url: tags
+                  weight: 3
+                - name: Categories
+                  url: categories
+                  weight: 1
+                - name: Series
+                  url: series
+                  weight: 2
+                - name: NullLink
+                  url: "#"
+                - name: NullLink2
+                  url: "#"
+                - name: NullLink3
+                  url: "#"
+
+    ar:
+        languageName: ":iraq:"
+        languageAltTitle: العربية
+        languagedirection: rtl
+        weight: 3
+        title: مدونة المربع
+        homeInfoParams:
+            Title: "مدونة المربع"
+            Content: >
+                مرحباً بك في مدونة المربع
+
+                - يمكنك أن تجد هنا مقالات متنوعة في العديد من المجالات.
+                
+                - ترقبوا المزيد قريباً!
+        menu:
+            main:
+                - name: الأرشيف
+                  url: archives
+                  weight: 4
+                - name: الوسوم
+                  url: tags/
+                  weight: 3
+                - name: التصنيفات
+                  url: categories/
+                  weight: 1
+                - name: المجاميع
+                  url: series
+                  weight: 2
+                - name: بحث
+                  url: search/
+                  post: <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="margin-right:12px;  margin-bottom:-4px;" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                  weight: 5
+        copyright: "**[شركة المربع للحلول البرمجية المحدودة](https://morabaa.com)**"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Morabaa Software Solutions Co. Blog"
+    author: Mahmood Janabi
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+    tocopen: false
+    comments: true
+    images: ["papermod-cover.png"]
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Morabaa Blog"
+        Content: >
+            Welcome to **Morabaa Blog**.
+
+            - You can find post from various topics here.
+
+            - Stay tuned for more!
+
+    socialIcons:
+        - name: facebook
+          url: "https://www.facebook.com/almorabaa"
+        - name: instagram
+          url: "https://www.instagram.com/almorabaa/"
+        - name: youtube
+          url: "https://www.youtube.com/c/MORABAA2007IRAQ"
+        - name: linkedin
+          url: "https://www.linkedin.com/company/morabaa/"
+        - name: telegram
+          url: "https://t.me/morabaa_com"
+        - name: github
+          url: "https://github.com/orgs/MorabaaSoftwareSolutions/"
+        - name: website
+          url: "https://morabaa.com"
+        - name: email
+          url: "mailto://info@morabaa.com"
+
+    # editPost:
+    #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
+
+    label:
+      #  text: "Home"
+        icon: "/logo.png"
+        iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        favicon: "/favicon.ico"
+        favicon16x16:  "/favicon-16x16.png"
+        favicon32x32:  "/favicon-32x32.png"
+        apple_touch_icon:  "/apple-touch-icon.png"
+        safari_pinned_tab:  "/safari-pinned-tab.svg"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    # highlight:
+    #     anchorLineNos: true
+    #     codeFences: true
+    #     guessSyntax: true
+    #     lineNos: false
+    #     noClasses: false
+    #     style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
