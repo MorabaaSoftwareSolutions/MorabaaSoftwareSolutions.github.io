@@ -9,6 +9,25 @@
       <link>https://mahmoos.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>**[شركة المربع للحلول البرمجية المحدودة](https://morabaa.com)**</copyright><atom:link href="https://mahmoos.github.io/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>**[شركة المربع للحلول البرمجية المحدودة](https://morabaa.com)**</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mahmoos.github.io/ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://mahmoos.github.io/ar/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahmoos.github.io/ar/tags/papermod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://mahmoos.github.io/ar/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahmoos.github.io/ar/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
