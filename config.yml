@@ -1,4 +1,4 @@
-baseURL: "https://mahmoos.github.io/morabaa-blog/"
+baseURL: "https://mahmoos.github.io/"
 title: Morabaa Blog
 paginate: 5
 theme: PaperMod
