@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mahmoos.github.io/morabaa-blog/archives/</loc>
+    <loc>https://mahmoos.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/archives/"
+                href="https://mahmoos.github.io/ar/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/archives/"
+                href="https://mahmoos.github.io/archives/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/categories/</loc>
+    <loc>https://mahmoos.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/categories/"
+                href="https://mahmoos.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/categories/"
+                href="https://mahmoos.github.io/categories/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/</loc>
+    <loc>https://mahmoos.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/"
+                href="https://mahmoos.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/"
+                href="https://mahmoos.github.io/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/posts/</loc>
+    <loc>https://mahmoos.github.io/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/posts/"
+                href="https://mahmoos.github.io/ar/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/posts/"
+                href="https://mahmoos.github.io/posts/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/search/</loc>
+    <loc>https://mahmoos.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/search/"
+                href="https://mahmoos.github.io/ar/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/search/"
+                href="https://mahmoos.github.io/search/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/series/</loc>
+    <loc>https://mahmoos.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/series/"
+                href="https://mahmoos.github.io/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/series/"
+                href="https://mahmoos.github.io/series/"
                 />
   </url><url>
-    <loc>https://mahmoos.github.io/morabaa-blog/tags/</loc>
+    <loc>https://mahmoos.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mahmoos.github.io/morabaa-blog/ar/tags/"
+                href="https://mahmoos.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mahmoos.github.io/morabaa-blog/tags/"
+                href="https://mahmoos.github.io/tags/"
                 />
   </url>
 </urlset>
