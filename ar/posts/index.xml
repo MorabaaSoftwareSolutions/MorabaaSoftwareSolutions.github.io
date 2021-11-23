@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>المقالات on مدونة المربع</title>
-    <link>https://mahmoos.github.io/ar/posts/</link>
+    <link>https://blog.morabaa.com/ar/posts/</link>
     <description>Recent content in المقالات on مدونة المربع</description>
     <image>
-      <url>https://mahmoos.github.io/papermod-cover.png</url>
-      <link>https://mahmoos.github.io/papermod-cover.png</link>
+      <url>https://blog.morabaa.com/papermod-cover.png</url>
+      <link>https://blog.morabaa.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>**[شركة المربع للحلول البرمجية المحدودة](https://morabaa.com)**</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mahmoos.github.io/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.morabaa.com/ar/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://mahmoos.github.io/ar/posts/emoji-support/</link>
+      <link>https://blog.morabaa.com/ar/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/emoji-support/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
     

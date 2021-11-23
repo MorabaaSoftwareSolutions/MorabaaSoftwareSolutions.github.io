@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>بيبرمود on مدونة المربع</title>
-    <link>https://mahmoos.github.io/ar/series/%D8%A8%D9%8A%D8%A8%D8%B1%D9%85%D9%88%D8%AF/</link>
+    <link>https://blog.morabaa.com/ar/series/%D8%A8%D9%8A%D8%A8%D8%B1%D9%85%D9%88%D8%AF/</link>
     <description>Recent content in بيبرمود on مدونة المربع</description>
     <image>
-      <url>https://mahmoos.github.io/papermod-cover.png</url>
-      <link>https://mahmoos.github.io/papermod-cover.png</link>
+      <url>https://blog.morabaa.com/papermod-cover.png</url>
+      <link>https://blog.morabaa.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>**[شركة المربع للحلول البرمجية المحدودة](https://morabaa.com)**</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mahmoos.github.io/ar/series/%D8%A8%D9%8A%D8%A8%D8%B1%D9%85%D9%88%D8%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.morabaa.com/ar/series/%D8%A8%D9%8A%D8%A8%D8%B1%D9%85%D9%88%D8%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation | Update</title>
-      <link>https://mahmoos.github.io/ar/posts/papermod/papermod-installation/</link>
+      <link>https://blog.morabaa.com/ar/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/papermod/papermod-installation/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/papermod/papermod-installation/</guid>
       <description>Read Install and Update instructions here</description>
     </item>
     
     <item>
       <title>Features</title>
-      <link>https://mahmoos.github.io/ar/posts/papermod/papermod-features/</link>
+      <link>https://blog.morabaa.com/ar/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/papermod/papermod-features/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     
     <item>
       <title>FAQs</title>
-      <link>https://mahmoos.github.io/ar/posts/papermod/papermod-faq/</link>
+      <link>https://blog.morabaa.com/ar/posts/papermod/papermod-faq/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/papermod/papermod-faq/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/papermod/papermod-faq/</guid>
       <description>Frequently Asked Questions</description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://mahmoos.github.io/ar/posts/papermod/papermod-icons/</link>
+      <link>https://blog.morabaa.com/ar/posts/papermod/papermod-icons/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/papermod/papermod-icons/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/papermod/papermod-icons/</guid>
       <description>List of all Icons supported by PaperMod</description>
     </item>
     
     <item>
       <title>Variables | Front Matter</title>
-      <link>https://mahmoos.github.io/ar/posts/papermod/papermod-variables/</link>
+      <link>https://blog.morabaa.com/ar/posts/papermod/papermod-variables/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mahmoos.github.io/ar/posts/papermod/papermod-variables/</guid>
+      <guid>https://blog.morabaa.com/ar/posts/papermod/papermod-variables/</guid>
       <description>List of Front Matter variables used by PaperMod</description>
     </item>
     
